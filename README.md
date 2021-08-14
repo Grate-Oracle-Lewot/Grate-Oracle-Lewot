@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Grate-Oracle-Lewot
 - Call me Lewot.
 - Mostly I just run a website for a tabletop RPG based on Paper Mario.
 - It's called the Arpeggio system and the site is arpeggiosystem.com
